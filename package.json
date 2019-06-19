@@ -1,0 +1,12 @@
+{
+  "name": "leap-years",
+  "version": "1.0.0",
+  "description": "tdd kata",
+  "main": "index.js",
+  "repository": "https://github.com/Kevin170113664/leap-years.git",
+  "author": "Li Linhao <lhli@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
